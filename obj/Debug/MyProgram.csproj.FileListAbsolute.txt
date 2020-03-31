@@ -8,3 +8,13 @@ C:\Users\Abra\source\repos\MyProgram\obj\Debug\MyProgram.csproj.GenerateResource
 C:\Users\Abra\source\repos\MyProgram\obj\Debug\MyProgram.csproj.CoreCompileInputs.cache
 C:\Users\Abra\source\repos\MyProgram\obj\Debug\MyProgram.exe
 C:\Users\Abra\source\repos\MyProgram\obj\Debug\MyProgram.pdb
+C:\Users\Acer\Downloads\LangVars-master\bin\Debug\MyProgram.exe.config
+C:\Users\Acer\Downloads\LangVars-master\bin\Debug\MyProgram.exe
+C:\Users\Acer\Downloads\LangVars-master\bin\Debug\MyProgram.pdb
+C:\Users\Acer\Downloads\LangVars-master\obj\Debug\MyProgram.csprojAssemblyReference.cache
+C:\Users\Acer\Downloads\LangVars-master\obj\Debug\MyProgram.Form1.resources
+C:\Users\Acer\Downloads\LangVars-master\obj\Debug\MyProgram.Properties.Resources.resources
+C:\Users\Acer\Downloads\LangVars-master\obj\Debug\MyProgram.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\LangVars-master\obj\Debug\MyProgram.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\LangVars-master\obj\Debug\MyProgram.exe
+C:\Users\Acer\Downloads\LangVars-master\obj\Debug\MyProgram.pdb
